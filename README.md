@@ -27,6 +27,17 @@ Harassment includes:
 * Deliberate “outing” of any aspect of a person’s identity without their consent except as necessary to protect vulnerable people from intentional abuse
 * Publication of non-harassing private communication
 
+## Conduct specific to recruitment activities
+
+The ZA Developers group, and its admins, acknowledge that finding skilled developers in South Africa is a serious problem that needs serious attention. However, the ZA Developers slack channel is first and foremost a safe space for developers to talk, share and collaborate. Therefore, the following are specific conditions regarding recruitment, and recruitment opportunities.
+
+* Professional recruiters are regrettably not allowed access to the ZA Developers group under any circumstances.
+* Users (including admins) may not under any circumstances share personal details of ZA Developers members with recruiters without that user's explicit consent.
+* Advertising an opportunity in brief within the [#work-opportunities channel](https://zadevelopers.slack.com/messages/work-opportunities/) is acceptable. Further discussions must happen via direct messages.
+* Opportunities must not, under any circumstances, use referral program links where the poster of the message could benefit, e.g. via earning a commission.
+
+We value being able to attract talent to our teams, and a brief message should allow it. New teams in particular are encouraged to post a "We're hiring" message.
+
 # Reporting
 
 If you are being harassed by a member of ZA Developers, notice that someone else is being harassed, or have any other concerns, please [contact an admin](https://zadevelopers.slack.com/team) directly via DM. Administrators will respond as soon as they are able. If the person who is harassing you is on the admin team, they will recuse themselves from handling your incident.
