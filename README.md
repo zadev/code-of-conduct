@@ -29,9 +29,9 @@ Harassment includes:
 
 # Reporting
 
-If you are being harassed by a member of ZA Developers, notice that someone else is being harassed, or have any other concerns, please contact an admin directly via DM. If the person who is harassing you is on the team, they will recuse themselves from handling your incident. We will respond as promptly as we can.
+If you are being harassed by a member of ZA Developers, notice that someone else is being harassed, or have any other concerns, please [contact an admin](https://zadevelopers.slack.com/team) directly via DM. Administrators will respond as soon as they are able. If the person who is harassing you is on the management team, they will recuse themselves from handling your incident.
 
-This code of conduct applies to ZA Developers spaces, but if you are being harassed by a member of ZA Developers outside our spaces, we still want to know about it. We will take all good-faith reports of harassment by ZA Developers members, especially the administrators, seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The abuse team reserves the right to exclude people from ZA Developers based on their past behavior, including behavior outside ZA Developers spaces and behavior towards people who are not in ZA Developers.
+This code of conduct applies to ZA Developers spaces, but if you are being harassed by a member of ZA Developers outside our spaces, we still want to know about it. We will take all good-faith reports of harassment by ZA Developers members, especially the administrators, seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The abuse team reserves the right to exclude people from ZA Developers based on their past behavior, including behavior outside ZA Developers spaces and behavior towards people who are not members of the ZA Developers community.
 
 In order to protect volunteers from abuse and burnout, we reserve the right to reject any report we believe to have been made in bad faith. Reports intended to silence legitimate criticism may be deleted without response.
 
@@ -41,7 +41,12 @@ We will respect confidentiality requests for the purpose of protecting victims o
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
-If a participant engages in harassing behavior, the administrators may take any action they deem appropriate, up to and including expulsion from all ZA Developers spaces and identification of the participant as a harasser to other ZA Developers members or the general public.
+If a participant engages in harassing behavior, the administrators may take any action they deem appropriate, up to and including expulsion from all ZA Developers spaces and identification of the participant as a harasser to other ZA Developers members and/or the general public.
+
+# Changes
+This code of conduct is subject to change as circumstances require, all current members of the ZA Developers community will be notified through the [#code-of-conduct](https://zadevelopers.slack.com/messages/code-of-conduct/) channel prior to these changes taking effect.
+
+If you feel there are aspects of this code of conduct which should be modified, please open a pull request with your suggested changes at [https://github.com/zadev/code-of-conduct](https://github.com/zadev/code-of-conduct).
 
 # Credits
 
