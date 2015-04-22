@@ -50,7 +50,7 @@ The ZA Developers group, and its admins, acknowledge that finding skilled develo
 
 We value being able to attract talent to our teams, and a brief message should allow it. New teams in particular are encouraged to post a "We're hiring" message.
 
-# Reporting
+## Reporting
 
 If you are being harassed by a member of ZA Developers, notice that someone else is being harassed, or have any other concerns, please [contact an admin](https://zadevelopers.slack.com/team) directly via DM. Administrators will respond as soon as they are able. If the person who is harassing you is on the admin team, they will recuse themselves from handling your incident.
 
@@ -60,7 +60,7 @@ In order to protect volunteers from abuse and burnout, we reserve the right to r
 
 We will respect confidentiality requests for the purpose of protecting victims of abuse. At our discretion, we may publicly name a person about whom we’ve received harassment complaints, or privately warn third parties about them, if we believe that doing so will increase the safety of ZA Developers members or the general public. We will not name harassment victims without their affirmative consent.
 
-# Acceptable Content
+## Acceptable Content
 The ZA Developers community is a collection of professional developers, as such it is expected that the content made available by members of the community should at all times adhere to the acceptable content policy. This policy is intended to protect the community's image, as well as the image of its members, through restrictions on certain classes of content which may be deemed to be unsuitable in a work or family context.
 
 Classes of content which we deem to be unsuitable include:
@@ -74,17 +74,17 @@ Classes of content which we deem to be unsuitable include:
 
 As a quick self-check, ask yourself whether you would like someone's child to see the content you are posting. If the answer is "no", then there's a good chance you shouldn't be posting it on the ZA Developers community.
 
-# Consequences
+## Consequences
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
 If a participant engages in harassing behavior, the administrators may take any action they deem appropriate, up to and including expulsion from all ZA Developers spaces and identification of the participant as a harasser to other ZA Developers members and/or the general public.
 
-# Changes
+## Changes
 This code of conduct is subject to change as circumstances require, all current members of the ZA Developers community will be notified through the [#code-of-conduct](https://zadevelopers.slack.com/messages/code-of-conduct/) channel prior to these changes taking effect.
 
 If you feel there are aspects to this code of conduct which should be modified, please open a pull request with your suggested changes at [https://github.com/zadev/code-of-conduct](https://github.com/zadev/code-of-conduct).
 
-# Credits
+## Credits
 
 This Code of Conduct is heavily based on the [LGBTQ in Tech Code of Conduct](http://lgbtq.technology/coc.html) and the [Offline First Code of Conduct for Slack](http://offlinefirst.org/coc).
