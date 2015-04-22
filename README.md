@@ -41,12 +41,12 @@ Harassment includes:
 
 ## Conduct specific to recruitment activities
 
-The ZA Developers group, and its admins, acknowledge that finding skilled developers in South Africa is a serious problem that needs serious attention. However, the ZA Developers slack channel is first and foremost a safe space for developers to talk, share and collaborate. Therefore, the following are specific conditions regarding recruitment, and recruitment opportunities.
+The ZA Developers community, and its admins, acknowledge that finding skilled developers in South Africa is a serious problem that needs attention. However, the ZA Developers community is first and foremost a safe space for developers to talk, share and collaborate. To help ensure this, we will enforce the following conditions regarding recruitment and the publication of recruitment opportunities.
 
-* Professional recruiters are regrettably not allowed access to the ZA Developers group under any circumstances.
-* Users (including admins) may not under any circumstances share personal details of ZA Developers members with recruiters without that user's explicit consent.
-* Advertising an opportunity in brief within the [#work-opportunities channel](https://zadevelopers.slack.com/messages/work-opportunities/) is acceptable. Further discussions must happen via direct messages.
-* Opportunities must not, under any circumstances, use referral program links where the poster of the message could benefit, e.g. via earning a commission.
+* Professional recruiters will, regrettably, not be granted access to the ZA Developers group under any circumstances.
+* ZA Developers members may not, under any circumstances, share the personal details of other ZA Developers members with recruiters without that user's explicit affirmative consent.
+* Briefly advertising an opportunity is acceptable on the condition that it is posted only once, and only within the [#work-opportunities](https://zadevelopers.slack.com/messages/work-opportunities/) channel. If a member requests additional information about the opportunity, as the advertiser you are required to continue the discussion through direct messages.
+* Opportunities must not, under any circumstances, use referral program links. Such links are defined as any URL which, when visited and whether directly or indirectly, results in benefits being bestowed upon the member responsible for posting the link, e.g. via earning a commission.
 
 We value being able to attract talent to our teams, and a brief message should allow it. New teams in particular are encouraged to post a "We're hiring" message.
 
