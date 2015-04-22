@@ -1,4 +1,16 @@
-# Code of Conduct
+# ZA Developers Slack - Code of Conduct
+
+## TL;DR
+
+* Be respectful of others
+* Do not harass others
+* Do not share personal information of others to people outside the community
+* Job opportunities can be posted in [#work-opportunities](https://zadevelopers.slack.com/messages/work-opportunities/), professional recruitment is not allowed
+* Don't spam the channels with links, or links to pages, for the purpose of monetization of user views and which provide no value to the ZA Developer community
+
+This is a safe space, lets keep it that way.
+
+## Code of Conduct
 
 “ZA Developers” in this document refers to the ZA Developers Slack organization at [https://zadevelopers.slack.com/](https://zadevelopers.slack.com/). “The administrators” refers to the administrators on this organization, a [list is available at the top of the Team Directory](https://zadevelopers.slack.com/team) (must be a member of the organization to view).
 
