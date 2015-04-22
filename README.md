@@ -60,7 +60,7 @@ Classes of content which we deem to be unsuitable include:
  - Unsolicited advertising with the exception of job offers in the [#work-opportunities](https://zadevelopers.slack.com/messages/work-opportunities/) channel.
  - Links, or links to pages, for the purpose of monetization of user views and which provide no value to the ZA Developer community.
 
-As a quick self-check, ask yourself whether you would like someone's child to see the content you are posting. If the answer is "no", then tehre's a good chance you shouldn't be posting it on the ZA Developers community.
+As a quick self-check, ask yourself whether you would like someone's child to see the content you are posting. If the answer is "no", then there's a good chance you shouldn't be posting it on the ZA Developers community.
 
 # Consequences
 
