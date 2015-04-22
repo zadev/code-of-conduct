@@ -48,6 +48,20 @@ In order to protect volunteers from abuse and burnout, we reserve the right to r
 
 We will respect confidentiality requests for the purpose of protecting victims of abuse. At our discretion, we may publicly name a person about whom we’ve received harassment complaints, or privately warn third parties about them, if we believe that doing so will increase the safety of ZA Developers members or the general public. We will not name harassment victims without their affirmative consent.
 
+# Acceptable Content
+The ZA Developers community is a collection of professional developers, as such it is expected that the content made available by members of the community should at all times adhere to the acceptable content policy. This policy is intended to protect the community's image, as well as the image of its members, through restrictions on certain classes of content which may be deemed to be unsuitable in a work or family context.
+
+Classes of content which we deem to be unsuitable include:
+
+ - Pornographic or sexually suggestive material, either in graphic or text form.
+ - Depictions of physical or emotional abuse, either in graphic or text form.
+ - Persecution of any individual as a result of their race, gender, religion or other physical traits.
+ - Material intended to, without basis, harm the reputation of any individual whether a member or not.
+ - Unsolicited advertising with the exception of job offers in the [#work-opportunities](https://zadevelopers.slack.com/messages/work-opportunities/) channel.
+ - Links, or links to pages, for the purpose of monetization of user views and which provide no value to the ZA Developer community.
+
+As a quick self-check, ask yourself whether you would like someone's child to see the content you are posting. If the answer is "no", then tehre's a good chance you shouldn't be posting it on the ZA Developers community.
+
 # Consequences
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
