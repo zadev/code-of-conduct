@@ -105,9 +105,9 @@ Bots in Slack cannot automatically join channels, they have to be invited. So in
 
 ### What about private conversations?
 
-Slack supports private channels and direct messages to facilitate truly "off the record" conversations. If you need to, please make use of those features. At the time we enabled archiving (August 2016), nearly 75% of all team communication happened in direct messages and private channels.
+Slack supports private channels and direct messages to facilitate "off the record" conversations. If you need to, please make use of those features. At the time archiving was enabled (August 2016), nearly 75% of all team communication happened in direct messages and private channels. 
 
-We feel this requirements is adequately covered.
+We feel this requirement is adequately covered by the above built-in Slack feature, but please be aware that this does not preclude the possiblility that anyone else could be recording your private conversations. 
 
 ### How can I get the logger removed from a channel?
 
